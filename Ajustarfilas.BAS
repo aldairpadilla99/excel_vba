@@ -36,4 +36,10 @@ Private Function UltimaFilaUsada(ws As Worksheet) As Long
     End If
 End Function
 
-HOLAO
+' =========================================
+    ' Son Comentarios
+
+    ' cd EXCEL_VBA
+
+    ' git add Ajustarfilas.BAS git commit -m "Modifico Ajustarfilas.BAS con prueba de edición" git push
+   
