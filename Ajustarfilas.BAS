@@ -35,3 +35,5 @@ Private Function UltimaFilaUsada(ws As Worksheet) As Long
         UltimaFilaUsada = c.Row
     End If
 End Function
+
+HOLAO
